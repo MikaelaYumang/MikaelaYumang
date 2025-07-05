@@ -1,4 +1,4 @@
-<h1>Mikaela Yumang</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B00F7&width=435&lines=Mikaela+Yumang)](https://git.io/typing-svg)
 <h3>Computer Engineering Student at Holy Angel University</h3>
 
 <h3>Tech Stack</h3>
