@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B00F7&width=435&lines=Mikaela+Yumang)](https://git.io/typing-svg)
-<h3>Computer Engineering Student at Holy Angel University</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A400F7&width=435&lines=Mikaela+Yumang)](https://git.io/typing-svg)
+<h4>Computer Engineering Student at Holy Angel University</h4>
 
 <h3>Tech Stack</h3>
 <div style="display: flex; flex-direction: row; justify-content: center;">
