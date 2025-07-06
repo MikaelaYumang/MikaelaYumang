@@ -1,8 +1,11 @@
 <div align="center">
 
- <a href="https://git.io/typing-svg">
+<div style="display: flex; justify-content: center;">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A400F7&width=435&lines=Mikaela+Yumang" alt="Typing SVG" />
   </a>
+</div>
+
 
  <h3 style="margin: 0; font-family: 'Courier New'>
     Computer Engineering Student at Holy Angel University
