@@ -7,12 +7,12 @@
     Computer Engineering Student at Holy Angel University
   </h3>
 <p>
-  Eat. Sleep. Code. Repeat. She's writing her future, one line of code at a time.
+Eat. Sleep. Code. Repeat. Every line of code brings her closer to her future.
 </p>
   
   <h3 style="font-family: 'Courier New', Courier, monospace;">Tech Stack</h3>
 
- <table bgcolor="#7e57c2">
+ <table>
   <tr>
     <td align="center">
       <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank">
