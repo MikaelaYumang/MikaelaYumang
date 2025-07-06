@@ -1,10 +1,10 @@
 <div align="center">
 
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&pause=1000&color=A400F7&width=435&lines=Mikaela+Yumang" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A400F7&width=435&lines=Mikaela+Yumang" alt="Typing SVG" />
   </a>
 
- <h3 style="margin: 0; font-family: 'Courier New', Courier, monospace;">
+ <h3 style="margin: 0; font-family: 'Courier New'>
     Computer Engineering Student at Holy Angel University
   </h3>
   
