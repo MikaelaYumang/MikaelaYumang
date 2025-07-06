@@ -1,16 +1,16 @@
 <div align="center">
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A400F7&width=435&lines=Mikaela+Yumang" alt="Typing SVG" />
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&pause=1000&color=A400F7&width=435&lines=Mikaela+Yumang" alt="Typing SVG" />
   </a>
-</div>
 
-<h3 style="margin: 0;">Computer Engineering Student at Holy Angel University</h3>
+ <h3 style="margin: 0; font-family: 'Courier New', Courier, monospace;">
+    Computer Engineering Student at Holy Angel University
+  </h3>
+  
+  <h3 style="font-family: 'Courier New', Courier, monospace;">Tech Stack</h3>
 
-<h3>Tech Stack</h3>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 10px 0;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 10px 0;">
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
   </a>
