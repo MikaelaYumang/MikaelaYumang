@@ -6,9 +6,9 @@
  <h3>
     Computer Engineering Student at Holy Angel University
   </h3>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaelayumang&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=fcfcfc&bg_color=7e57c2&locale=en&layout=compact" />
-
+<p>
+  Eat. Sleep. Code. Repeat. She's writing her future, one line of code at a time.
+</p>
   
   <h3 style="font-family: 'Courier New', Courier, monospace;">Tech Stack</h3>
 
