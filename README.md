@@ -9,7 +9,7 @@
   
   <h3 style="font-family: 'Courier New', Courier, monospace;">Tech Stack</h3>
 
- <table>
+ <table bgcolor="#7e57c2">
   <tr>
     <td align="center">
       <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank">
